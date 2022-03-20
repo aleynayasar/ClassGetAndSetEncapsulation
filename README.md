@@ -1,0 +1,2 @@
+# ClassGetAndSetEncapsulation
+Use encapsulation 
